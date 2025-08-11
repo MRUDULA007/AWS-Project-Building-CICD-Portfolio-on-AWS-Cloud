@@ -1,4 +1,4 @@
-# 🚀 AWS Project – Building a CI/CD Portfolio on AWS Cloud
+# AWS Project – Building a CI/CD Portfolio on AWS Cloud
 
 This project demonstrates how to **build and deploy a personal portfolio website on AWS** using a **CI/CD pipeline**. It integrates **GitHub Actions** with AWS services for automated deployments, showcasing skills in **cloud hosting, DevOps automation, and secure configurations**.
 
@@ -18,7 +18,7 @@ This project highlights my expertise in:
 
 ## 🖼 Architecture Diagram
 
-![Architecture Diagram](assets/architecture-diagram.png) <!-- Replace with your actual image path -->
+![image alt](https://github.com/MRUDULA007/AWS-Project-Building-CICD-Portfolio-on-AWS-Cloud/blob/92c8b42d0ca0d2de8bbea10066f00770c0f4dd54/architecture%20diagram%201.png)
 
 
 ---
@@ -57,6 +57,10 @@ It strengthens my portfolio by showcasing **cloud deployment, automation, and se
 ---
 
 ## 📷 Demo
-![Portfolio Screenshot](assets/portfolio-screenshot.png) <!-- Replace with your actual screenshot -->
+![image alt](https://github.com/MRUDULA007/AWS-Project-Building-CICD-Portfolio-on-AWS-Cloud/blob/d25b7b557abfeeca88d1bd716d66c9afa8b1d027/p1.png)
+![image alt](https://github.com/MRUDULA007/AWS-Project-Building-CICD-Portfolio-on-AWS-Cloud/blob/d25b7b557abfeeca88d1bd716d66c9afa8b1d027/p2.png)
+![image alt](https://github.com/MRUDULA007/AWS-Project-Building-CICD-Portfolio-on-AWS-Cloud/blob/d25b7b557abfeeca88d1bd716d66c9afa8b1d027/p3.png)
+
+
 
 ---
