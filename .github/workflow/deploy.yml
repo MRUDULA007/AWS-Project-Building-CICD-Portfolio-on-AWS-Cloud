@@ -1,4 +1,4 @@
-name: Upload Portfolio
+name: Upload the Portfolio
 
 on:
   push:
