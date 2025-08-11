@@ -61,6 +61,12 @@ It strengthens my portfolio by showcasing **cloud deployment, automation, and se
 ![image alt](https://github.com/MRUDULA007/AWS-Project-Building-CICD-Portfolio-on-AWS-Cloud/blob/d25b7b557abfeeca88d1bd716d66c9afa8b1d027/p2.png)
 ![image alt](https://github.com/MRUDULA007/AWS-Project-Building-CICD-Portfolio-on-AWS-Cloud/blob/d25b7b557abfeeca88d1bd716d66c9afa8b1d027/p3.png)
 
+---
 
+## 🔗 Portfolio Link
 
+Check out my sample AWS CICD Project Portfolio hosted on Amazon S3:  
+[Mrudula's AWS CICD Portfolio link](http://portfolio-bucket-cicd-project.s3-website.us-east-2.amazonaws.com)
+
+ 
 ---
