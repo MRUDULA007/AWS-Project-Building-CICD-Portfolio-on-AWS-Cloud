@@ -12,7 +12,7 @@ This project highlights my expertise in:
 - 🏗 **Architecting AWS-based hosting solutions**
 - ⚡ **Configuring CI/CD for automated deployments**
 - 🔐 **Applying AWS security best practices**
-- 🛡 **Managing permissions and credentials securely**
+- 🛡 **Managin permissions and credentials securely**
 
 ---
 
